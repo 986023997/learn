@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>demo1.Processor1</OriginalElement>
+  <nodes>
+    <node x="0.0" y="80.0">demo1.Processor1</node>
+    <node x="12.0" y="0.0">demo1.Handler</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="demo1.Processor1" target="demo1.Handler">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="63.0" y="54.999999999999986" />
+  <SelectedNodes>
+    <node>demo1.Handler</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
